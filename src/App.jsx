@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <div className="container-top shadow">
+        <div className="container-top">
           <div className="button-container">
             <button className='button shadow red'>Red</button>
             <button className='button shadow green'>Green</button>
